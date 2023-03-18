@@ -9,7 +9,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class Foxlaunch {
 	@Test
-	public void Launch2() {
+	public void launch2() {
 		WebDriverManager.firefoxdriver().setup();
 		FirefoxOptions options=new FirefoxOptions();
 		options.addArguments("--headless");
