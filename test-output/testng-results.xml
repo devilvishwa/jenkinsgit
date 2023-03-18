@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-18T22:48:16 IST" name="Suite" finished-at="2023-03-18T22:49:41 IST" duration-ms="84912">
+    <groups>
+    </groups>
+    <test started-at="2023-03-18T22:48:16 IST" name="Test" finished-at="2023-03-18T22:49:41 IST" duration-ms="84912">
+      <class name="launching.Foxlaunch">
+        <test-method signature="Launch2()[pri:0, instance:launching.Foxlaunch@28f3b248]" started-at="2023-03-18T22:48:16 IST" name="Launch2" finished-at="2023-03-18T22:49:33 IST" duration-ms="77033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch2 -->
+      </class> <!-- launching.Foxlaunch -->
+      <class name="launching.ChromeLaunch">
+        <test-method signature="launch()[pri:0, instance:launching.ChromeLaunch@47faa49c]" started-at="2023-03-18T22:48:16 IST" name="launch" finished-at="2023-03-18T22:49:41 IST" duration-ms="84832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+      </class> <!-- launching.ChromeLaunch -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
